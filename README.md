@@ -1,6 +1,6 @@
-## Olá, meu nome é Mathias Gilvan Fuhr! 👋 <img src="https://komarev.com/ghpvc/?username=Mathiasfuhr19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right" /> 
+## Olá, meu nome é Mathias Gilvan Fuhr! 👋 <img src="https://komarev.com/ghpvc/?username=Mathiasfuhr&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right" /> 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador VitorSousa">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador Mathiasfuhr">
 
 
 <p align="left" >

@@ -1,8 +1,4 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">🚀 Transição de Carreira: Técnico em Enfermagem ➡️ Desenvolvedor Full Stack 🌐
 
 👨‍⚕️ Com mais de 7 anos de experiência como Técnico em Enfermagem, estou dando um novo rumo à minha carreira, explorando o emocionante mundo da programação.

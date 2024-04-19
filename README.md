@@ -7,10 +7,11 @@
 
 💻 Participando do curso Full Stack da B7Web, tenho me dedicado ao aprendizado de diversas tecnologias do mundo web, incluindo HTML, CSS, JavaScript, TypeScript, Tailwind CSS e Bootstrap. Atualmente, estou focado em aprofundar meu conhecimento em React.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mathiasfuhr&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-two-pi-61.vercel.app/api/top-langs/?username=mathiasfuhr&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center">
+  <a href="https://github.com/mathiasfuhr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathiasfuhr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasfuhr&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
  
  &nbsp;
  &nbsp;

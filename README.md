@@ -9,8 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/mathiasfuhr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathiasfuhr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasfuhr&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mathiasfuhr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasfuhr&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
  
  &nbsp;
